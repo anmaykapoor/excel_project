@@ -1,32 +1,59 @@
-📊 Sales Dashboard Analysis (Excel-Based)
-This project showcases an interactive Excel dashboard built to analyze sales performance data across regions and months. It transforms raw transactional data into clear, visual insights for quick decision-making — all without using any code or external tools.
+📊 Sales Dashboard Analysis – Excel Project
+A business analytics project developed using Microsoft Excel to track and visualize sales performance across products, regions, and months. The dashboard offers an intuitive interface built with pivot tables, charts, and slicers — no code required.
 
-📁 File Included
-ExcelProject-SalesDashboard.xlsm – Contains raw sales data and the interactive dashboard
+📌 Project Overview
+This project transforms raw sales data into a visually interactive Excel dashboard. The goal was to identify trends, product performance, and regional strengths using only spreadsheet features like PivotTables and slicers. It simulates a real-world scenario where business teams need quick, clean insights directly from raw sales files.
 
-🛠 Tools & Features Used
-Pivot Tables – To summarize data dynamically
+🧩 Dataset Used
+Raw data sheet with the following fields:
 
-Charts – Line, Column, Pie to visualize trends & proportions
+Product, Region, Quantity Sold, Sales Amount, Date
 
-Slicers – For filter-based interaction
+🛠️ Tools & Technologies
+Microsoft Excel – Used for all analysis and visualization
 
-Macros-enabled workbook – Smooth functionality with .xlsm format
+Pivot Tables – For dynamic data summarization
 
-📌 Key Highlights
-Visual overview of product-wise & region-wise sales
+Charts – Column, Line, and Pie charts for KPI tracking
 
-Monthly sales trends to track performance over time
+Slicers – For region-wise and product-wise filtering
 
-Easy-to-navigate dashboard layout using slicers
+Macros-enabled Workbook (.xlsm)
 
-Fully built in Excel — no plugins or code required
+🗃️ Key Features
+✔️ Product-wise and region-wise sales tracking
+✔️ Monthly sales trend analysis
+✔️ Interactive slicers for multi-filtering
+✔️ Dynamic charts updated through PivotTables
+✔️ Clean dashboard layout for executive reporting
 
-🚀 How to Use
-Open the .xlsm file using Microsoft Excel (enable macros if prompted).
+📊 Dashboard Highlights
+Total Sales by Region
 
-Go to the DASHBOARD sheet.
+Top-Selling Products
 
-Use slicers to filter data by region, month, or product.
+Monthly Sales Trends
 
-Analyze dynamic visual updates in real-time
+Product Contribution (Pie Chart)
+
+Filter Slicers for quick region/product selection
+
+🚀 How to Run
+Open the Excel file: ExcelProject-SalesDashboard.xlsm
+
+Enable macros (if prompted)
+
+Go to the DASHBOARD sheet
+
+Use slicers to explore product or region-wise sales
+
+Observe live updates in the charts
+
+✨ Outcome
+This project demonstrates how Excel can deliver professional-grade dashboards. It helped surface actionable business insights from raw sales data — suitable for sales managers and small business owners needing quick reporting without coding.
+
+📬 Contact
+Anmay Kapoor
+📧 anmaykapoor15@gmail.com
+📍 Jaipur, India
+🔗 LinkedIn
